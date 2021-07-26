@@ -5,10 +5,13 @@
 .service-1,.service-2,.service-3,.service-4{
     display: flex;
 }
+.fav-icon{
+    font-size: 30px;
+        margin-right: 30px;
+}
 .sub-service-text{
     display: block;
 }
-.sub-service-fav{
-    font-size: 30px;
-    margin-right: 30px;
+.sub-service-text p{
+    margin-left: 65px;
 }
